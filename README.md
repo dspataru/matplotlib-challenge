@@ -16,7 +16,7 @@ This repository contains an analysis used to create a technical report of a clin
 
 Tables and figures needed for the technical report of the clinical study, as well as a top-level summary of the study results are captured in this analysis. The project uses two datasets:
 1. [Mouse_metadata.csv](https://github.com/dspataru/pandas-challenge/blob/main/data/Mouse_metadata.csv) : contains data about the mice that were used in the study, including mouse ID, drug regimen , sex, age in months, and weight (g).
-2. [Study_results.csv](https://github.com/dspataru/pandas-challenge/blob/main/data/Study_results.csv) : contains data about students at each school and their Student ID, student_name gender, grade, school_name, reading_score, and math_score.
+2. [Study_results.csv](https://github.com/dspataru/pandas-challenge/blob/main/data/Study_results.csv) : contains data about mouse ID, different timepoints in the treatment, tumor volume (mm3), and metastatic sites.
 
 The above two csv files can be found in the data folder of the current repository. Python's pandas library is used to import, merge, and sort the data into dataframes for analysis. The data was cleaned and prepared for analysis by removingany mouse ID with duplicate time points. Summary statistics of the merged dataframe were prepared. Matplotlib is used to visualize the data using bar charts, pie charts, line plots, scatter plots, and box plots. The correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen was calculated and a linear regression model is displayed as well.
 
