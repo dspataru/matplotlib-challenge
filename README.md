@@ -1,14 +1,14 @@
 # matplotlib-challenge - Pharmaceutical Drug treatment analysis using pandas and matplotlib
 
 ## Table of Contents
-* [Background](https://github.com/dspataru/pandas-challenge/blob/main/README.md#background)
-* [Analysis](https://github.com/dspataru/pandas-challenge/blob/main/README.md#analysis)
-* [Merged DataFrame](https://github.com/dspataru/pandas-challenge/blob/main/README.md#merged-dataframe)
-* [Summary Statistics](https://github.com/dspataru/pandas-challenge/blob/main/README.md#summary-statistics)
-* [Bar Charts and Pie Charts](https://github.com/dspataru/pandas-challenge/blob/main/README.md#bar-charts-and-pie-charts)
+* [Background](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#background)
+* [Analysis](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#analysis)
+* [Merged DataFrame](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#merged-dataframe)
+* [Summary Statistics](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#summary-statistics)
+* [Bar Charts and Pie Charts](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#bar-charts-and-pie-charts)
 * [Calculating Quartiles, Finding Outliers, and Creating a Box Plot]()
-* [Creating a Line Plot and a Scatter Plot](https://github.com/dspataru/pandas-challenge/blob/main/README.md#creating-a-line-plot-and-a-scatter-plot)
-* [Calculating Correlation and Regression](https://github.com/dspataru/pandas-challenge/blob/main/README.md#calculating-correlation-and-regression)
+* [Creating a Line Plot and a Scatter Plot](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#creating-a-line-plot-and-a-scatter-plot)
+* [Calculating Correlation and Regression](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#calculating-correlation-and-regression)
 
 ## Background
 
