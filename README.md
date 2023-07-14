@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Background](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#background)
-* [Analysis](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#study-observations)
+* [Study Observations](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#study-observations)
 * [Merged DataFrame](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#merged-dataframe)
 * [Summary Statistics](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#summary-statistics)
 * [Bar Charts and Pie Charts](https://github.com/dspataru/matplotlib-challenge/blob/main/README.md#bar-charts-and-pie-charts)
