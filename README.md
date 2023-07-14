@@ -29,6 +29,7 @@ Jupyter Notebook, Pandas, Python, DataFrames, DataSets, Matplotlib, Statistics
 * Mice that were part of the Capomulin and Ramicane treatment groups showed smaller final tumor volume than the Infubinol and Ceftamin treatment groups.
 * There is a strong positive correlation (r = 0.84) between mouse weight and average tumor volume.
 Note: the mouse with the duplicate data was dropped because the same timepoints had different tumor volumes and would only introduce noise in the dataset. See the duplicate mouse data below:
+
 ![duplicate mouse data](https://github.com/dspataru/matplotlib-challenge/blob/main/images/duplicate_mouse_data.png)
 
 ## Merged Dataframe
@@ -60,7 +61,7 @@ The inner quartile range (IQR) and outliers for each of the above treatment regi
 ## Creating a Line Plot and a Scatter Plot
 A line plot of the tumor volume over the course of the Capomulin treatment for mouse I509 was generated.
 
-![line plot](https://github.com/dspataru/matplotlib-challenge/blob/main/images/line_plot.png)
+![line plot](https://github.com/dspataru/matplotlib-challenge/blob/main/images/line_graph.png)
 
 A scatter plot was chosen to visualize how mouse weight could be related to the average observed tumor volume for the Capomulin regimen.
 
